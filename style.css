@@ -1,0 +1,17 @@
+ #dark {
+    box-shadow: 100px;
+    border-radius: 20px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: #969A97;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+}
+canvas {
+    float: right;
+    margin-right: 600px;
+}
